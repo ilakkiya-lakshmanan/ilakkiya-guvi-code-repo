@@ -1,0 +1,10 @@
+var a=6;
+var b="hi";
+var c=true;
+var d;
+var e=null;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
