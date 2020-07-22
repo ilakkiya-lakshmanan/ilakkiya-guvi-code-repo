@@ -1,6 +1,6 @@
 function reverseVowels(str){
  
-    var vowels = "aeiouAEIOU";
+    var vowels = "aeiou";
     
     var vowelsToReverse = [];
     
